@@ -1,0 +1,14 @@
+
+@use "colors";
+
+$sizes: (
+  xs: 12px,
+  s: 20px,
+  m: 30px,
+  l: 50px,
+  xl: 70px
+);
+
+.button {
+  height: 20px;
+}
